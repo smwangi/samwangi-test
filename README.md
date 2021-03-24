@@ -1,10 +1,13 @@
-# un habit assignment
+# UN Habitat assignment
 Assignment
 
 Instructions : How to install :
 
 Clone Repository 
+https://github.com/smwangi/samwangi-test.git
+
 Create a database name : unapptest
+
 Open and run unapptest.sql database script located in the samwangi-test\database folder using mysql client.
 
 Go to projects root folder 
